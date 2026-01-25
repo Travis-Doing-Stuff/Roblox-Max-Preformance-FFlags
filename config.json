@@ -1,0 +1,54 @@
+{
+    "allow_gamepad_permission": false,
+    "close_on_leave": false,
+    "discord_rpc_enabled": false,
+    "discord_rpc_show_join_button": false,
+    "enable_gamemode": true,
+    "enable_hidpi": false,
+    "fflags": {
+        "FFlagExample": true,
+
+    "FFlagDebugGraphicsDisableDirect3D11": true,
+    "FFlagDebugGraphicsPreferVulkan": true,
+
+    "FFlagDebugCheckRenderThreading": true,
+    "FFlagRenderDebugCheckThreading2": true,
+
+    "FIntRuntimeMaxNumOfThreads": 2400,
+
+    "FFlagDebugRenderingSetDeterministic": true,
+
+    "FIntTerrainArraySliceSize": 4,
+
+    "FIntRenderShadowIntensity": 0,
+
+    "FFlagGlobalWindRendering": false,
+    "FFlagGlobalWindActivated": false,
+
+    "FIntRenderLocalLightUpdatesMax": 8,
+    "FIntRenderLocalLightUpdatesMin": 6,
+
+    "FFlagDisablePostFx": true,
+
+    "FFlagDebugSkyGray": true,
+
+    "FFlagFastGPULightCulling3": true,
+
+    "DFIntPerformanceControlTextureQualityBestUtility": -1,
+
+    "DFIntTextureCompositorActiveJobs": 0,
+
+    "FIntFRMMinGrassDistance": 0,
+    "FIntFRMMaxGrassDistance": 0,
+    "FIntRenderGrassDetailStrands": 0,
+    "FIntRenderGrassHeightScaler": 0
+
+    
+    },
+    "graphics_optimization_mode": "performance",
+    "server_location_indicator_enabled": false,
+    "touch_mode": "off",
+    "use_console_experience": false,
+    "use_libsecret": false,
+    "use_opengl": false
+}
