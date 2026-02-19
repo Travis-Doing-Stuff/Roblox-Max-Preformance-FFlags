@@ -4,6 +4,11 @@
 Roblox FFlag config for the best preformance and fps that i have made this most likely isnt the best FFlag config that is out there but its good
 if you want to remove things from the config then you can if there are any issues feel free to go to the issue tab and report the issue
 
+## This is build for sober
+This is built for sober the roblox for linux im pretty sure that alot of these dont work on normal roblox windows client
+but i dont use windows so im not 100% sure but i know that these work for sober
+
+Sober Website check them out: https://sober.vinegarhq.org
 
 ## What each FFlag is doing
 
